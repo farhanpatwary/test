@@ -1,3 +1,3 @@
 <?php
-include 'submitQuestion.html';
+include_once 'submitQuestion.html';
  ?>
